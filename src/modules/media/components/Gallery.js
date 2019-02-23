@@ -118,7 +118,7 @@ class Gallery extends PureComponent {
                   <figcaption className={classes.slideCaption}>
                     <p>{image.caption}</p>
                   </figcaption>
-                </figure>j
+                </figure>
               </div>
             );
           })}
